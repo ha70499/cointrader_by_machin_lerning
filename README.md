@@ -1,0 +1,2 @@
+# cointrader_by_machin_lerning
+autocointrader_by_machin_lerning
